@@ -1,3 +1,5 @@
+**This is a lab from my Python Class**
+
 # Background
 Rock, Paper, Scissors is a popular game often played by children, or child-like adults. It is sometimes used as a method of selection similar to flipping a coin or throwing dice to randomly select a person for some purpose.  Of course, this game is not truly random since a skilled player can often recognize and exploit the non-random behavior of an opponent.  For instance, if you notice that your opponent chooses Paper most frequently, you may choose Scissors (which beats Paper) most often in an effort to win. There are many variants of this game.
 
@@ -40,7 +42,3 @@ The objective of Rock, Paper, Scissors is to defeat your opponent by selecting a
 
 # Specifications
 At the beginning of each round your program should ask the user for input.  To make it easier on the user, they are only required to enter a single letter, R, P, S or Q.  Be prepared to handle upper or lower case entries.  If the user inputs something other than the legal entries, you will have to handle that too.  But for the sake of output, you will need to print the full word (Rock, Paper, or Scissors).  The user should be able to play as many times as he/she wants, then after typing 'q' for quit, the program will display the final score as shown above.  See _example_output.txt_ for a sample of what a full game's worth of output should look like.
-
-First, download the project to your local workstation.  I recommend using a source code repository interface such as GitHub Desktop. Start with the template file called main.py. Modify the header to include your own information, and update the code to meet the requirements. When you are satisfied with your changes, commit them to the repository.
-
-After your code is committed to your GitHub repository, go to your account on GradeScope and find the assignment called Lab-06 - JUser Input. Under "Submission Method" select GitHub. You will need to point to the correct repository (called something like joates-223p-spring-2021/lab-06-_your user name_).  You may be asked to link your GitHub account with Gradescope at this time.  Next select the Main branch and press Upload. Gradescope will import your project files from GitHub and automatically grade them.  If you like what you see, you are done.  If not, you can make changes and use the Resumbit button on the bottom right of the Gradescope page to try again.
