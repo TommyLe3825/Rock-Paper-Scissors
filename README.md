@@ -1,6 +1,3 @@
-# Lab-06 - Rock, Paper, Scissors
-In this lab you will write a Python game to play Rock, Paper, Scissors against the computer.  This exercise is intended to get you introduced to looping for user input, and generally, more familiarity with Python and thinking like a coder.
-
 # Background
 Rock, Paper, Scissors is a popular game often played by children, or child-like adults. It is sometimes used as a method of selection similar to flipping a coin or throwing dice to randomly select a person for some purpose.  Of course, this game is not truly random since a skilled player can often recognize and exploit the non-random behavior of an opponent.  For instance, if you notice that your opponent chooses Paper most frequently, you may choose Scissors (which beats Paper) most often in an effort to win. There are many variants of this game.
 
